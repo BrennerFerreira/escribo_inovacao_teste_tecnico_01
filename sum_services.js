@@ -8,13 +8,13 @@ function sumAllMultiplesOf3And5SmallerThanValue(value) {
   const parsedValue = parseInt(value);
 
   if (isNaN(parsedValue)) {
-    console.log(`Valor ${value} é inválido. Por favor, escreva um número`);
+    console.log(`Valor ${value} é inválido. Por favor, escreva um número.`);
     return;
   }
 
   if (parsedValue < 0) {
     console.log(
-      `Valor ${value} é inválido. Por favor, escreva um número positivo`
+      `Valor ${value} é inválido. Por favor, escreva um número positivo.`
     );
     return;
   }
