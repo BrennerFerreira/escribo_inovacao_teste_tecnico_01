@@ -1,4 +1,4 @@
-const sumAllMultiplesOf3And5SmallerThanValue = require("./sum_services");
+const sumAllMultiplesOf3And5SmallerThanValue = require("./sumServices");
 
 test(`should return the sum of all numbers smaller than the informed number
     when parameter is a valid number`, () => {

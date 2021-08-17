@@ -1,6 +1,6 @@
 const readline = require("readline");
 
-const sumAllMultiplesOf3And5SmallerThanValue = require("./sum_services");
+const sumAllMultiplesOf3And5SmallerThanValue = require("./sumServices");
 
 const rl = readline.createInterface({
   input: process.stdin,
