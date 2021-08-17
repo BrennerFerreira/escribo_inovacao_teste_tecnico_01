@@ -1,0 +1,11 @@
+{
+  "name": "teste_tecnico_01_escribo_inovacao",
+  "version": "1.0.0",
+  "description": "Teste tecnico para a vaga de Desenvolvedor Mobile Flutter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brenner Ferreira",
+  "license": "ISC"
+}
