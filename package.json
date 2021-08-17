@@ -4,7 +4,7 @@
   "description": "Teste tecnico para a vaga de Desenvolvedor Mobile Flutter",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node src/index.js",
     "test": "jest"
   },
   "author": "Brenner Ferreira",
