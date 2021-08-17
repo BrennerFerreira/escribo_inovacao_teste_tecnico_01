@@ -30,6 +30,4 @@ function sumAllMultiplesOf3And5SmallerThanValue(value) {
   return totalSum;
 }
 
-module.exports = {
-  sumAllMultiplesOf3And5SmallerThanValue,
-};
+module.exports = sumAllMultiplesOf3And5SmallerThanValue;
